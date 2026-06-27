@@ -16,7 +16,12 @@ LikeBlocks is a visual block-based programming environment that brings the simpl
 
 ## Getting Started
 
-[Add installation and setup instructions here]
+1. download the latest .html file
+2. create a prototype using the blocks or upload a stick build file (.stkb)
+3. convert a project to JavaScript
+4. and deploy!
+
+now your all done!
 
 ## How It Works
 
