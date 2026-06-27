@@ -32,7 +32,7 @@ now your all done!
 
 ## Usage Examples
 
-[Add code examples and screenshots here]
+No usage examples so far.
 
 ## License
 
